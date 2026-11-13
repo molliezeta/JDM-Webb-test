@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Min egen sida</title>
+  </head>
+  <body>
+    <h1>Alla svar:</h1>
+    <p>Det här är min första webbsida.</p>
+<p>Det här är min första webbsida.</p>
+  </body>
+<div>
+<p>This is a paragraph inside a div</p>
+<p>This is a paragraph inside a div</p>
+<p>This is a paragraph inside a div</p>
+<p>This is a paragraph inside a div</p>
+</div>
+
+</html>

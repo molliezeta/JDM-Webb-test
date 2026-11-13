@@ -1,0 +1,22 @@
+p{color: rgb(0, 0, 0);
+background-color: rgb(214, 167, 205);
+display: inline-block;
+padding: 5px 10px;
+font-size: larger;
+font-family: Verdana, Geneva, Tahoma, sans-serif;}
+img{width: 500px;
+height: 520px;}
+body{background-color: rgb(120, 72, 165);}
+img{display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;}
+h1{margin-left: auto;
+margin-right: auto;
+width: 50%;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-align: center;
+text-decoration-line: underline;}
+div{font-size: x-large;}
+h2{font-size: larger;}
+
